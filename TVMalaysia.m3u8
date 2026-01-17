@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,TV1 HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+#EXTINF:-1,TV2 HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+#EXTINF:-1,TV6 HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+#EXTINF:-1,8TV HD
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1,TV Okey HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+#EXTINF:-1,Sukan RTM HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
+#EXTINF:-1,TV Alhijrah HD
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_65df6a407ee011f09f52e16aa310efc6/index.m3u8
+#EXTINF:-1,Berita RTM HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+#EXTINF:-1,Drama Hebat HD
+https://6e716707c6b847c58f231868ef41aea3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FASTOO_CH1_DRAMAHEBAT/dash.mpd
+#EXTINF:-1,Filem Mantap HD
+https://89c0a16b004d46e384850cbd34564515.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FASTOO_CH2_FILEMMANTAP/dash.mpd
+#EXTINF:-1,Lawak Sentral HD
+https://f6d6ae50df6a4cdcbce068bc4a324a9a.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FASTOO_CH3_LAWAK/dash.mpd
+#EXTINF:-1,Drama Hotpot HD
+https://f6d6ae50df6a4cdcbce068bc4a324a9a.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FASTOO_CH4_DRAMAHOTPOT/dash.mpd
+#EXTINF:-1,Travel & Taste HD
+https://d55bda5e72b2470a9df9a0b8be3e445c.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FASTOO_CH5_TRAVEL/dash.mpd
+#EXTINF:-1,Jom Ngaji HD
+https://318c57264167462c8b160d55c71ea205.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FASTOO_CH6_JOMNGAJI/dash.mpd
+#EXTINF:-1,Oh My Ceria! HD
+https://837f03b88b7546998a803c13a3e64d49.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FASTOO_CH7_CERIA/dash.mpd
+#EXTINF:-1,KCM SD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/playlist.m3u8
+#EXTINF:-1,Free Movies HD
+https://amg01553-blueantmediaasi-freemoviesastrosooka-sooka-kh4yu.amagi.tv/ts-eu-w1-n2/playlist/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/cb573d197e6c648a9ed43b67cef84082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce95d41da3aa0e4011c927944fa83439fd401e984815c8312d37ea212c9c3f98ad51182e4db598b6f37b700224050a0c211bec851b7c3896038ee1e42243f66966817632c46e2665055f985a6d7dc74e8abfb43aa613dba0e9f0df65847e8a37bc5b01edac588da4e4037a3cb492b40ca80f4d9ab6563ef2193c8985ed4844200641067b01e4a03843e81c4eb5ef5e2069fb76caea1681139ffbd50968da791d57dec209308c5ddfd94314301364a52c615959363df26ca6be8e027610d1d0afdc115f38fd70864390f9ed60a9d533aa9cb8786e80b39e1690f15bd338e15563a8c7c4754d100d5d67c60802d0fc51238f8533ac902dfb03efaaadeaa576fe690970caf21bff539d3f003bb64730c51e4bc7f09373917bad96f033476d456a4829a93102734aca69db090297b6d5f305d038ceee20aebadc83b121bc4136b20431919920bc17a9d676d053dc20adcbc0317d45779cd877cc2c9f30a471eed4dc1b23e5803be968fa50921a6/118/1920x1080_1249600/index.m3u8
+#EXTINF:-1,Tastemade HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-hls-sooka/playlist.m3u8
+#EXTINF:-1,Gusto TV HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
+#EXTINF:-1,Astro Awani HD
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1,NHK World Japan HD
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1,ABC News Australia HD
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,Al Jazeera English HD
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1,Al Jazeera Arabic HD
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1,CNN HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
