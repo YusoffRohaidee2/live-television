@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JSQglj.png",SBC HD
+https://aloula-redirect.vercel.app/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRQTndk.png",Saudiya HD
+https://aloula-redirect.vercel.app/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEOjApe.png",SaudiyaAlaan
+https://aloula-redirect.vercel.app/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AKa1X9d.png",Thikrayat HD
+https://aloula-redirect.vercel.app/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcRlHQm.png",Ekhbariya HD
+https://aloula-redirect.vercel.app/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",SunnahKSA
+https://aloula-redirect.vercel.app/6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",QuranKSA
+https://aloula-redirect.vercel.app/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ONKNOAp.png",KSASports1
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8ULLqg.png",KSASports2
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXfCvez.png",KSASports3
+https://aloula-redirect.vercel.app/16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/32/f9/fullhd_4c7e170fe0169d36ed17d45a645d4e69fb961793.png",SaudiaRadioViz
+https://aloula-redirect.vercel.app/11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/37/1a/fullhd_399eddcc4305f34f41c7fab24c3518fab5d55d97.png",RiyadhRadioViz
+https://aloula-redirect.vercel.app/12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",HollyQuranRadioViz
+https://aloula-redirect.vercel.app/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",NidaAlIslamViz
+https://aloula-redirect.vercel.app/14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",JeddahRadioViz
+https://aloula-redirect.vercel.app/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Khuzama_Radio_2025_logo.png",KhuzamaRadioViz
+https://aloula-redirect.vercel.app/18/playlist.m3u8
